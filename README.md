@@ -5,7 +5,8 @@
 
 <h2>👩‍💻 Projects</h2>
 
-  <b> Heart Attack Analysis & Prediction | Machine Learning Project
+  <b> Heart Attack Analysis & Prediction | Machine Learning Project</b>
+  
   -Performed exploratory data analysis (EDA) on patient health data to identify key factors influencing heart disease.
   -Preprocessed data by handling missing values, treating outliers, and encoding categorical features.
   -Built and evaluated multiple machine learning models including Logistic Regression, Decision Tree, Support Vector Machine (SVM), and Random Forest.
