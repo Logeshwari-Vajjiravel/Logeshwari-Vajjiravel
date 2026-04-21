@@ -5,6 +5,16 @@
 
 <h2>👩‍💻 Projects</h2>
 
+  <b> Heart Attack Analysis & Prediction | Machine Learning Project
+  -Performed exploratory data analysis (EDA) on patient health data to identify key factors influencing heart disease.
+  -Preprocessed data by handling missing values, treating outliers, and encoding categorical features.
+  -Built and evaluated multiple machine learning models including Logistic Regression, Decision Tree, Support Vector Machine (SVM), and Random Forest.
+  -Compared models using Accuracy, ROC Curve, and AUC metrics to select the best-performing algorithm.
+  -Applied hyperparameter tuning using GridSearchCV to optimize model performance.
+  -Achieved highest performance using the Random Forest classifier with superior accuracy and AUC score.
+  -Implemented the complete end-to-end ML pipeline from data analysis to model evaluation.
+  -Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+  - 🔗 <a href="https://github.com/Logeshwari-Vajjiravel/Heart-Attack-Analysis-and-Prediction">GitHub Repository</a>
 - <b>Mand AI — Localized Generative AI for Small Businesses</b>
   - SaaS platform enabling small Indian businesses to generate culturally-relevant marketing content in local languages with voice input, templates, and analytics.
   - Tech Stack: ReactJS, TailwindCSS, FastAPI, Node.js, Hugging Face, MongoDB, PostgreSQL, AWS/GCP  
